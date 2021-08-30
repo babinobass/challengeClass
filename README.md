@@ -1,4 +1,4 @@
-# ChallengerClass
+# ChallengeClass
 
 Se pidio crear una clase Helper con distintos metodos.
 
